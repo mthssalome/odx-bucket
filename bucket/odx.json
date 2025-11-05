@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/mthssalome/ods-v5/releases/download/v0.0.0-ci-20251105033632-90a1440/odx-windows-x64.zip",
-      "hash": "08866832fdb599653359be9605dc0b7f835c7337efe3e92233906f5c9aa64dd8"
+      "hash": "288db6a88a2eb22274f5bb0ee9b94d152d5c1020b85f64c73fd321ff5042b8c1"
     }
   },
   "bin": [
